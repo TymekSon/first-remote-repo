@@ -2,5 +2,6 @@ mleko
 10 jajek
 wd40
 vodka
+bułki
 end
 confirmed by the boss
